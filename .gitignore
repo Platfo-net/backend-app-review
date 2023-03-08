@@ -107,7 +107,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -155,8 +154,3 @@ mnt*
 .db.env
 
 report.txt
-
-
-prod.env
-stage.env
-local.env
